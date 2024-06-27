@@ -9,6 +9,6 @@
 
 # Terminalas
 
-"Ctrl + "  atidaro patį pirmą terminalą / arba tuo metu aktyvu
+`` Ctrl + `  ``  atidaro patį pirmą terminalą / arba tuo metu aktyvu
 
 ''Ctrl + Shift +'' sukuria naują terminalą
